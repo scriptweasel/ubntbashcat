@@ -17,4 +17,4 @@ It scans through a defined subnet and trys to detect on each IP:
 
 To Do:
 
-Many thoughts on what more I'd like this script to do, such as defining what paramenters to pull, and extending it to also pull data from mikrotik clients, to name a couple.
+Many thoughts on what more I'd like this script to do, such as defining what parameters to pull, and extending it to also pull data from mikrotik clients, to name a couple.  Also some streamlining is needed to make things less bulky and easier to read through and simpler to process.
