@@ -4,7 +4,7 @@ A bash script that walks a defined subnet and returns details about Ubiquiti wir
 Requires:
 nmap, sshpass
 
-Essentially, this script is designed for fixed wireless network with a mix of Ubiquiti and Mikrotik wireless clients.
+Essentially, this script is designed for fixed a wireless network with a mix of Ubiquiti and Mikrotik wireless clients.
 
 It scans through a defined subnet and trys to detect on each IP:
 
