@@ -2,7 +2,7 @@
 A bash script that walks a defined subnet and returns details about Ubiquiti wireless hardware.
 
 Requires:
-nmap, sshpass
+nmap, sshpass, patience
 
 Essentially, this script is designed for fixed a wireless network with a mix of Ubiquiti and Mikrotik wireless clients.
 
